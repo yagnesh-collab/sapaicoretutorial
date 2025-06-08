@@ -4,7 +4,7 @@ metadata:
   name: iris-training-pipeline # executable id, must be unique across all your workflows (YAML files)
   annotations:
     scenarios.ai.sap.com/name: "Iris DataSet Classifier Scenario" # Scenario name should be the use case
-    scenarios.ai.sap.com/description: "SAP AI Core tutorial to classify the popular iris dataset"
+    scenarios.ai.sap.com/description: "SAP AI Core tutorial to classify the popular iris datase"
 
     executables.ai.sap.com/name: "Iris model training" # Executable name should describe the workflow in the use case  
     executables.ai.sap.com/description: "Training with popular iris dataset"
