@@ -1,3 +1,4 @@
+## all commands
 docker build -t docker.io/miltonc/iris-ai-training-image:03 .
 docker push docker.io/miltonc/iris-ai-training-image:03
 
