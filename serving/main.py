@@ -13,7 +13,6 @@ sepal_width = ""
 petal_length = ""
 petal_width = ""
 
-
 @app.before_request
 def init():
     """
